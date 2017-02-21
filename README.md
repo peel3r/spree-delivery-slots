@@ -1,7 +1,7 @@
 [SpreeDeliverySlots](https://github.com/peeler/spree-delivery-slots)
 ==================
 
-[SpreeDeliverySlots](https://github.com/vinsol-spree-contrib/spree-delivery-slots) allows customer to select preferred delivery time for his order. Admin can add a number of time slots(ex: 11:00 AM - 3 PM and 4 PM - 9PM) when he can deliver from shipping method edit/new page. Customer will be able to select only from these pre-created time slots.
+[SpreeDeliverySlots](https://github.com/peel3r/spree-delivery-slots) allows customer to select preferred delivery time for his order. Admin can add a number of time slots(ex: 11:00 AM - 3 PM and 4 PM - 9PM) when he can deliver from shipping method edit/new page. Customer will be able to select only from these pre-created time slots.
 
 
 
